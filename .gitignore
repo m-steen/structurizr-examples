@@ -7,4 +7,4 @@ java/out
 **/.idea
 **/.gradle
 **/build
-dsl/**/*.json
+# dsl/**/*.json
