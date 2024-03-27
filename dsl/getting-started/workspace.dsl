@@ -1,4 +1,4 @@
-workspace {
+workspace "Getting Started" {
 
     model {
         user = person "User" "A user of my software system."
@@ -13,17 +13,7 @@ workspace {
             autoLayout
         }
 
-        styles {
-            element "Software System" {
-                background #1168bd
-                color #ffffff
-            }
-            element "Person" {
-                shape person
-                background #08427b
-                color #ffffff
-            }
-        }
+        theme default
     }
     
 }

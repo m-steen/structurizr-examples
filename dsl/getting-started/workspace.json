@@ -4,7 +4,7 @@
   "documentation" : { },
   "id" : 1,
   "lastModifiedAgent" : "structurizr-javascript",
-  "lastModifiedDate" : "2024-03-27T13:58:58Z",
+  "lastModifiedDate" : "2024-03-27T16:06:25Z",
   "model" : {
     "people" : [ {
       "description" : "A user of my software system.",
@@ -19,7 +19,7 @@
         "destinationId" : "2",
         "id" : "3",
         "properties" : {
-          "structurizr.dsl.identifier" : "b065a3c9-2ff2-42d4-a60d-aeb599c1dca6"
+          "structurizr.dsl.identifier" : "52608cfa-f864-43e1-8ce8-5312ed548f3e"
         },
         "sourceId" : "1",
         "tags" : "Relationship"
@@ -38,28 +38,18 @@
       "tags" : "Element,Software System"
     } ]
   },
-  "name" : "Name",
+  "name" : "Getting Started",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIgIkEgdXNlciBvZiBteSBzb2Z0d2FyZSBzeXN0ZW0uIgogICAgICAgIHNvZnR3YXJlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIlNvZnR3YXJlIFN5c3RlbSIgIk15IHNvZnR3YXJlIHN5c3RlbS4iCgogICAgICAgIHVzZXIgLT4gc29mdHdhcmVTeXN0ZW0gIlVzZXMiCiAgICB9CgogICAgdmlld3MgewogICAgICAgIHN5c3RlbUNvbnRleHQgc29mdHdhcmVTeXN0ZW0gIlN5c3RlbUNvbnRleHQiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIHN0eWxlcyB7CiAgICAgICAgICAgIGVsZW1lbnQgIlNvZnR3YXJlIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjMTE2OGJkCiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiUGVyc29uIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBwZXJzb24KICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzA4NDI3YgogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQogICAgCn0K"
+    "structurizr.dsl" : "d29ya3NwYWNlICJHZXR0aW5nIFN0YXJ0ZWQiIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIgIkEgdXNlciBvZiBteSBzb2Z0d2FyZSBzeXN0ZW0uIgogICAgICAgIHNvZnR3YXJlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIlNvZnR3YXJlIFN5c3RlbSIgIk15IHNvZnR3YXJlIHN5c3RlbS4iCgogICAgICAgIHVzZXIgLT4gc29mdHdhcmVTeXN0ZW0gIlVzZXMiCiAgICB9CgogICAgdmlld3MgewogICAgICAgIHN5c3RlbUNvbnRleHQgc29mdHdhcmVTeXN0ZW0gIlN5c3RlbUNvbnRleHQiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgIH0KICAgIAp9Cg=="
   },
   "views" : {
     "configuration" : {
       "branding" : { },
       "lastSavedView" : "SystemContext",
       "metadataSymbols" : "SquareBrackets",
-      "styles" : {
-        "elements" : [ {
-          "background" : "#1168bd",
-          "color" : "#ffffff",
-          "tag" : "Software System"
-        }, {
-          "background" : "#08427b",
-          "color" : "#ffffff",
-          "shape" : "Person",
-          "tag" : "Person"
-        } ]
-      },
-      "terminology" : { }
+      "styles" : { },
+      "terminology" : { },
+      "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ]
     },
     "systemContextViews" : [ {
       "automaticLayout" : {
@@ -72,17 +62,17 @@
         "vertices" : false
       },
       "dimensions" : {
-        "height" : 1400,
+        "height" : 1300,
         "width" : 884
       },
       "elements" : [ {
         "id" : "1",
-        "x" : 242,
+        "x" : 217,
         "y" : 200
       }, {
         "id" : "2",
         "x" : 217,
-        "y" : 900
+        "y" : 800
       } ],
       "enterpriseBoundaryVisible" : true,
       "key" : "SystemContext",
