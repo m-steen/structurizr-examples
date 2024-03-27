@@ -2,9 +2,9 @@
   "configuration" : { },
   "description" : "Description",
   "documentation" : { },
-  "id" : "1",
+  "id" : 1,
   "lastModifiedAgent" : "structurizr-javascript",
-  "lastModifiedDate" : "2024-03-27T16:19:58Z",
+  "lastModifiedDate" : "2024-03-27T16:37:48Z",
   "model" : {
     "people" : [ {
       "description" : "A user of my software system.",
@@ -19,7 +19,7 @@
         "destinationId" : "2",
         "id" : "3",
         "properties" : {
-          "structurizr.dsl.identifier" : "0d2ce6ea-ec03-41be-bc58-47896d64169e"
+          "structurizr.dsl.identifier" : "1de5b97b-ccf4-40dd-bb24-5582ba9abb7c"
         },
         "sourceId" : "1",
         "tags" : "Relationship"
